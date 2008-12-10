@@ -58,3 +58,6 @@
 [submodule "Ack.tmbundle"]
 	path = Ack.tmbundle
 	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "ProjectPlus.tmbundle"]
+	path = ProjectPlus.tmbundle
+	url = git://github.com/ciaran/projectplus.git
